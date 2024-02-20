@@ -1,3 +1,6 @@
+dnl Copyright (C) 2024 Fotios Valasiadis
+dnl SPDX-License-Identifier: GPL-2.0-or-later
+
 AC_INIT([joke-of-a-compiler], [0.0])
 
 dnl Directories for auxiliary files and macros
